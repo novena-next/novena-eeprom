@@ -1,12 +1,12 @@
 Source: novena-eeprom
 Section: utils
 Priority: extra
-Maintainer: Jacob Appelbaum <jacob@appelbaum.net>
+Maintainer: Jookia <contact@jookia.org>
 Build-Depends: debhelper (>= 9),
                gcc (>= 3),
                make (>= 3)
 Standards-Version: 3.9.5
-Homepage: https://github.com/xobs/novena-eeprom/
+Homepage: https://github.com/novena-next/novena-eeprom/
 
 Package: novena-eeprom
 Architecture: any
