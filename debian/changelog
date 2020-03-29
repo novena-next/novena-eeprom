@@ -1,3 +1,14 @@
+novena-eeprom (2.3-2) unstable; urgency=medium
+
+  [ Sean Cross ]
+  * gitignore: Ignore more debian files
+
+  [ Jookia ]
+  * novena-eeprom: Fix build on Buster
+  * debian: Change maintainer to myself
+
+ -- Jookia <contact@jookia.org>  Sun, 29 Mar 2020 19:09:56 +1100
+
 novena-eeprom (2.3-1) unstable; urgency=medium
 
   * Add 'lidbootblock' flag
